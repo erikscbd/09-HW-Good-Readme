@@ -48,7 +48,7 @@ const questions = [ {
 {
     type: 'input',
     name: 'contributors',
-    message: 'What are the contributors?',
+    message: 'Who are the contributors?',
 },
 
 
