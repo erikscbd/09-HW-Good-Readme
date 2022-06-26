@@ -1,13 +1,25 @@
-# eriktest
- 
+# Erik's Test Center
+  # Title
+  Erik's Test Center
+
   # Description
-  test
+  This is for testing purposes
   
   # Usage
-  test
+  for finding bugs
+
+  # Installation
+  install 
 
   # Testing
-  none
+  none needed
 
-  #
+  # Contributors
+  erik, erik, and erik
+
+  # License
+  mit
+
+  # Contact 
+  erikesco@gmaill.com
 
